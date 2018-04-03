@@ -1,0 +1,7 @@
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\PurchaseOrderSerializationExample\PurchaseOrderSerializationExample\bin\Debug\PurchaseOrderSerializationExample.exe.config
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\PurchaseOrderSerializationExample\PurchaseOrderSerializationExample\bin\Debug\PurchaseOrderSerializationExample.exe
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\PurchaseOrderSerializationExample\PurchaseOrderSerializationExample\bin\Debug\PurchaseOrderSerializationExample.pdb
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\PurchaseOrderSerializationExample\PurchaseOrderSerializationExample\obj\Debug\PurchaseOrderSerializationExample.csprojResolveAssemblyReference.cache
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\PurchaseOrderSerializationExample\PurchaseOrderSerializationExample\obj\Debug\PurchaseOrderSerializationExample.csproj.CoreCompileInputs.cache
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\PurchaseOrderSerializationExample\PurchaseOrderSerializationExample\obj\Debug\PurchaseOrderSerializationExample.exe
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\PurchaseOrderSerializationExample\PurchaseOrderSerializationExample\obj\Debug\PurchaseOrderSerializationExample.pdb
